@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rcsn5vleLwaAiJDjLAtvkBApmptTvoajaBZyDZxYOZAjk/Js03bkQLwCSOI+8J0Dkhcm347PxAxkSkOTVPG93Q==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\bootcamp-backend\\Bootcamp.Queries\\Bootcamp.Queries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\afpy9\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}
